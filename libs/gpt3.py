@@ -1,7 +1,7 @@
 import openai
 from urllib.request import urlopen
 
-openai.organization = "YOUR_ORG_IDI"
+openai.organization = "YOUR_ORG_ID"
 openai.api_key = "YOUR_API_KEY"
 
 pictureDims="1024x1024"
